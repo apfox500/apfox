@@ -1,0 +1,16 @@
+/* Navbar brand styling */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Footer text styling */
+footer p {
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    .profile-section img {
+        width: 180px;
+        height: 180px;
+    }
+}
